@@ -8,7 +8,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		System.out.println("\n\n\t\tHey Zatu, your server is started successfully. Let's enjoy 👾👾👾🤖🤖🤖...");
+		System.out.println("\n\n\t\tHey Tushar, your server is started successfully. Let's enjoy 👾👾👾🤖🤖🤖...");
 	}
 
 }
